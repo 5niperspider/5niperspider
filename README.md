@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on https://github.com/5niperspider/figma-push-variables<br>🌱 I’m currently learning react
+🔭 I’m currently working on <br>🌱 I’m currently learning react
 
 
 # 💻 Tech Stack:
