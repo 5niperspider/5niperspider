@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on <br>🌱 I’m currently learning react
+🔭 I'm currently working on my master's degree in cybersecurity <br>🌱 I’m currently learning techniques in malware analysis and incident response.
 
 
 # 💻 Tech Stack:
